@@ -1,1 +1,17 @@
 
+body {
+  background-color: rgb(232, 250, 230);
+}
+
+h1 {
+  text-align:center;
+  color: maroon;
+  margin-left: 40px;
+} 
+h2 {
+    text-align:center;
+}
+p{
+    color:Tomato; 
+    border: 2px solid Violet;
+}
