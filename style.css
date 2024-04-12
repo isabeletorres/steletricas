@@ -1,11 +1,10 @@
 
 body {
-    background-image: url('https://ensin-e.edu.br/wp-content/uploads/2021/06/lampadas-incandescentes-97d88040.jpg');
-}
+    background-color:MediumSeaGreen;
 
 h1 {
   text-align:center;
-  color: maroon;
+  color: #800000;
   margin-left: 40px;
 } 
 h2 {
@@ -13,5 +12,5 @@ h2 {
 }
 p{
     color:Tomato; 
-    border: 2px solid Violet;
+    
 }
